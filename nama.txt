@@ -1,0 +1,3 @@
+nama = raw_input('Masukan nama Anda : ')
+nama = raw_input('masukan nama','goodbye python')
+print "nama"
